@@ -76,4 +76,11 @@ intensity =
 
   124.2217
 
->> 
+width="267" height="303"
+
+<img width="267" height="303" alt="original_photo" src="https://github.com/user-attachments/assets/8b008f65-8b6a-4175-b547-dcd529a6c80b" />
+<img width="367" height="303" alt="original_matrix" src="https://github.com/user-attachments/assets/3b3072ec-314e-4c4f-adac-942a803269df" />
+<img width="269" height="303" alt="grayscale_image" src="https://github.com/user-attachments/assets/2c761fc7-f975-4aa6-9f4f-d973088ffc3f" />
+<img width="367" height="303" alt="8_connected_components" src="https://github.com/user-attachments/assets/fc4cbddd-8af4-4540-a4f7-46719837d0ac" />
+<img width="367" height="303" alt="4_connected_components" src="https://github.com/user-attachments/assets/7d86a372-42c3-4419-8dcb-22ac3cbed7ea" />
+
